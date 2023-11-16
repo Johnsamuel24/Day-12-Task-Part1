@@ -1,0 +1,173 @@
+
+
+@media screen and (max-width: 1300px) {
+  
+  #label1{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+  }
+
+  #card2{
+  
+  margin-right: 70px;
+  margin-bottom: 50px;
+  
+  }
+  #card1{
+    margin-right: 50px;
+  }
+
+  .searchbox{
+   
+   
+
+    margin-right: 170px;
+  }
+
+}
+
+@media screen and (max-width:1826px){
+
+    #card2{
+        margin-left: 20px;
+    }
+          
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+   
+   
+   
+}
+
+#con1{
+    background-color: rgb(47,61,70);
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#img1{
+ 
+    justify-content: flex-start;
+padding-top: 20px;
+padding-bottom: 20px;
+   
+
+    width:70px;
+   
+}
+
+#r1{
+
+display: flex;
+flex-wrap: nowrap;
+justify-content: center;
+align-items: center;
+
+ 
+   font-family:"Segoe UI" ;
+    font-size:30px;
+    color:rgb(234, 229, 229);
+  
+}
+#label1{
+    display: flex;
+    flex-wrap: wrap;
+    height: 700px;
+    width: 400px;
+
+    background-color: rgb(53,53,53); 
+   
+margin-top: 80px;
+margin-left: 100px;
+  
+    border-radius: 20px;
+    color:aliceblue;
+}
+.c1{
+ 
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items:center;
+
+
+    font-size: 50px;
+    font-family: "segoe UI";
+   
+}
+
+.searchbox
+{
+   
+    background-color:rgb(53,53,53);
+    color:white;
+    border-radius:15px;
+    height:70px;
+
+    font-size: 30px;
+    font-family:Segoe UI;
+  
+    width: 800px;
+
+    padding-left: 30px;
+    margin-top: 120px;
+    margin-left: 250px;
+  
+
+}
+
+#card1{
+    width: 18rem;
+   
+    
+    width:300px;
+    height:200px;
+    border-radius: 20px;
+    background-color:rgb(53,53,53);
+    color:white;
+   
+    font-size: 30px;
+    font-family:Segoe UI;
+    text-align: center;
+
+    padding-top: 50px;
+margin-top: 70px;
+margin-left: 120px;
+    
+
+
+}
+
+
+#card2{
+    width: 18rem;
+  
+    width:1130px;
+    height:250px;
+   
+    border-radius: 20px;
+    background-color:rgb(53,53,53);
+    color:white;
+
+    font-size: 30px;
+    font-family:Segoe UI;
+    text-align: center;
+
+    padding-top: 50px;
+    margin-top: 30px;
+    margin-left: 125px;
+}
+
+
+
+    
+
+
+ 
+
